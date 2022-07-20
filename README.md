@@ -3,6 +3,7 @@
 
 <hr>
 
+![julia](https://img.shields.io/badge/-Julia-00509e?style=flat&logo=julia&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-00509e?style=flat&logo=python&logoColor=white)
 ![cpp](https://img.shields.io/badge/-C++-00509e?style=flat&logo=cplusplus)
 ![latex](https://img.shields.io/badge/-LaTeX-00509e?style=flat&logo=latex)
